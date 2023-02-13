@@ -8,6 +8,7 @@ Watching:
 <li>CS: https://youtu.be/8mAITcNt710?t=56400</li>
 <li>Solidity: https://youtu.be/gyMwXuJrbJQ?t=16960</li>
 <li>Express: https://www.youtube.com/watch?v=qwfE7fSVaZM</li>
+<li>AWS: https://youtu.be/SOTamWNgDKc?t=1800</li>
 
 </ul>
 
@@ -16,6 +17,5 @@ Watch next:
 
 <li>GitLab: https://www.youtube.com/watch?v=qP8kir2GUgo</li>
 <li>GitLab CI: https://www.youtube.com/watch?v=PGyhBwLyK2U</li>
-<li>AWS: https://www.youtube.com/watch?v=SOTamWNgDKc</li>
 
 </ul>
